@@ -38,7 +38,8 @@ npm run start
 - [React HTML to PDF](https://www.npmjs.com/package/react-html-to-pdf)
 
 ### Authors
-- [Dadvaiah Pavan](http://dadvaiah pavan.netlify.app/)
+- [Dadvaiah Pavan]
+- (http://dadvaiahpavan.netlify.app/)
 
 ### Contributions
 - We welcome contributions to our website. If you would like to contribute, please submit a pull request on our Github repository.
